@@ -1,0 +1,186 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.mainnav{
+    width: 100%;
+    height: 93px;
+    /* border: 3px solid red; */
+ 
+}
+.minnav5{
+    width: 90%;
+    height: 93px;
+    /* border: 2px solid black; */
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.navimg5{
+    width: 110px;
+    height: 93px;
+    /* border: 2px solid aqua; */
+}
+.navimg5 img{
+    width: 60px;
+    margin: auto;
+    display: block;
+   
+}
+.fb{
+    font-weight: bold;
+    text-align: center;
+}
+.centar{
+    width: 32%;
+    height: 93px;
+    /* border: 2px solid green; */
+
+
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 44px;
+  
+   
+    /* border: 2px solid black; */
+}
+Ul li{
+    list-style-type: none;
+   
+}
+ul li a{
+    text-decoration: none;
+    font-size: 19px;
+    color: black;
+    font-weight: bold;
+}
+ul li a:hover{
+    color: red;
+}
+
+.mainnavicon{
+    width: 100px;
+    height: 93px;
+    /* border: 2px solid rgb(204, 188, 99); */
+    display: flex;
+    justify-content: space-around;
+   
+}
+.icon3{
+    font-size: 28px;
+    margin-top: 44px;
+    padding: 0px 0px 0px 0px;
+    /* border: 2px solid red;    */
+}
+
+/* canva coding */
+
+
+.canvaimg{
+    width: 50px;
+    height: 50px;
+}
+.canvasmain{
+    /* border: 2px solid red; */
+    display: flex;
+    margin-top: 10px;
+}
+.canvaremove{
+    width: 60px;
+    height: 25px;
+}
+.mincanva{
+    /* border: 2px solid black; */
+    margin-left: 8px;
+}
+.canvatitle{
+    font-weight: bold;
+    color: black;
+    font-size: 16px;
+}
+.can-child{
+    display: flex;
+    justify-content: space-between;
+    width: 95%;
+    height: 30px;
+    margin-top: 10px;
+    background-color: pink;
+    border-radius: 5px;
+}
+.canvaprice{
+    font-size: 15px;
+    color: red;
+}
+.spancanva{
+    font-weight: bold;
+    font-size: 14px;
+}
+.canvaqunt{
+  margin-top: 3px;
+   text-align: center;
+}
+.plush{
+    width: 20px;
+    height: 30px;
+    border: 1px solid pink;
+    background-color: pink;
+}
+.mainspan{
+    /* border: 2px solid black;  */
+    display: flex;
+    width: 112px;
+    margin-top: 6px;
+    justify-content: space-between;
+}
+#chokadi{
+   margin-left: 150px;
+   margin-top: 45px;
+   font-size: 18px;
+    width: 20px;
+   border: none;
+   background-color: white;
+    height: 20px;   
+}
+.supp{
+    background-color: red;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    padding: 1px 6px;
+}
+.lastdiv{
+    width: 100%;
+    height: 90px;
+    /* border: 2px solid red; */
+   
+    align-items: center;
+    display: flex;
+   
+}
+.lastmin{
+    width: 100%;
+    height: 70px;
+    display: flex;
+    background-color: red;
+    position: fixed;
+    bottom: 0;
+    align-items: center;
+    border: 2px solid  black;
+}
+.lastmin h5{
+    color: white;
+    margin-left: 10px;
+}
+.out{
+    height: 30px;
+    width: 95px;
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    border-radius: 6px;
+    font-weight: bold;
+    margin-left: 120px;
+}

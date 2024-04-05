@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cardttle{
+    width: 100%;
+    /* border: 2px solid red; */
+    height: 80px;
+    margin-top: 65px;
+}
+.cradtitle-chile{
+
+    /* border: 2px solid black; */
+    text-align: center;
+    width: auto;
+    margin: auto;
+}
+.cardname{
+    text-decoration: none;
+    font-size: 45px;
+    word-spacing: 5px;
+    color: black;
+    font-weight: bolder;
+}
